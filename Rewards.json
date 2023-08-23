@@ -15,6 +15,6 @@
         "name": "Go out to a movie",
         "max_points": 150,
         "min_points": 100,
-        "note": "+50 points for dinner. Movie, bowling, etc - cheap outings"
+        "note": null
     }
 ]
