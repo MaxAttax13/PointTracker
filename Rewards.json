@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Add whatever rewards you'd like here!",
+        "max_points": 0,
+        "min_points": null,
+        "note": null
+    },
+    {
+        "name": "Spend $5 on video games",
+        "max_points": 15,
+        "min_points": null,
+        "note": null
+    },
+    {
+        "name": "Go out to a movie",
+        "max_points": 150,
+        "min_points": 100,
+        "note": "+50 points for dinner. Movie, bowling, etc - cheap outings"
+    }
+]

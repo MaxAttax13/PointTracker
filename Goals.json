@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Brush teeth",
+        "max_points": 1,
+        "min_points": null,
+        "note": null
+    },
+    {
+        "name": "Drink 32oz/1L of water",
+        "max_points": 1,
+        "min_points": null,
+        "note": "Up to 3x/day. Don't overhydrate just for points! xD"
+    },
+    {
+        "name": "Eat vegetables",
+        "max_points": 1,
+        "min_points": null,
+        "note": "More than a couple bites :)"
+    },
+    {
+        "name": "Get the mail",
+        "max_points": 1,
+        "min_points": null,
+        "note": null
+    },
+    {
+        "name": "Shower",
+        "max_points": 2,
+        "min_points": null,
+        "note": null
+    },
+    {
+        "name": "Go to bed on time",
+        "max_points": 5,
+        "min_points": null,
+        "note": null
+    },
+    {
+        "name": "Sweep and mop",
+        "max_points": 5,
+        "min_points": null,
+        "note": null
+    },
+    {
+        "name": "Take out the trash",
+        "max_points": 5,
+        "min_points": null,
+        "note": null
+    },
+    {
+        "name": "Wash dishes",
+        "max_points": 5,
+        "min_points": null,
+        "note": null
+    },
+    {
+        "name": "Cook a meal",
+        "max_points": 10,
+        "min_points": 2,
+        "note": "Points based on complexity of the dish"
+    },
+    {
+        "name": "Finish reading a book",
+        "max_points": 10,
+        "min_points": 2,
+        "note": "Points awarded by length"
+    }
+]
