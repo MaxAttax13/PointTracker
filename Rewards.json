@@ -1,6 +1,6 @@
 [
     {
-        "name": "Add whatever rewards you'd like here!",
+        "name": "Add whatever rewards you'd like!",
         "max_points": 0,
         "min_points": null,
         "note": null
@@ -13,8 +13,8 @@
     },
     {
         "name": "Go out to a movie",
-        "max_points": 150,
-        "min_points": 100,
+        "max_points": 40,
+        "min_points": null,
         "note": null
     }
 ]
