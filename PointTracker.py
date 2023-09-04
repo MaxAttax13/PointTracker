@@ -11,7 +11,7 @@ import datetime
 from datetime import datetime
 from datetime import timedelta
 
-version = '1.2'
+version = '1.3'
 changes = False #This determines whether to prompt the user to save before exiting
 window_initialized = False
 today = datetime.now()
@@ -185,7 +185,7 @@ def add_history(event, value, counter):
     else:
         date = yesterday.strftime('%m/%d/%Y')
     new_history = (f'{date} | {event} | {value} | Total: {counter}')
-    history.append(new_history)
+    history.insert(1, new_history)
     global changes
     changes = True
 
